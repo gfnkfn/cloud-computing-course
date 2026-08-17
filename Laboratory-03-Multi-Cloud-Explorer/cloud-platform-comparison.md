@@ -2,30 +2,10 @@
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 |---|---|---|---|
-| Launch Year | | | |
-| Compute Service | | | |
-| Storage Service | | | |
-| Networking Service | | | |
-| Identity Service | | | |
-| Primary Strength | | | |
-| Ideal Organizations | | | |
-
-## Questions
-
-### 1. Which cloud provider offers the broadest range of services?
-
-### 2. Which provider best integrates with Microsoft technologies?
-
-### 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
-
-### 4. Which cloud platform would you personally choose and why?
-
-## Equivalent Cloud Services
-
-| Service Category | AWS | Azure | GCP |
-|---|---|---|---|
-| Virtual Machine | | | |
-| Object Storage | | | |
-| Identity Management | | | |
-| SQL Database | | | |
-| Kubernetes | | | |
+| Launch Year | 2006 | 2010 | 2008 |
+| Compute Service | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Storage Service | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Networking Service | Amazon VPC | Azure Virtual Network | Google Cloud VPC |
+| Identity Service | AWS IAM | Microsoft Entra ID | Cloud Identity |
+| Primary Strength | Broad range of cloud services | Microsoft integration | AI, data analytics, and Kubernetes |
+| Ideal Organizations | Startups, enterprises, and organizations needing many cloud services | Organizations using Microsoft technologies | Organizations focused on AI, data, and cloud-native applications |
